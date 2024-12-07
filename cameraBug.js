@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API with custom camera settings.  Specifically, when attempting to set a custom `autoFocus` setting, the camera might freeze or crash, producing no output. This seems to happen inconsistently, sometimes working and other times not.
